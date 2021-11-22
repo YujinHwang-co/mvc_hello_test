@@ -9,7 +9,9 @@
 <h1>
 	Hello world!  
 </h1>
-
+<h2> 
+	This is feature/new_update1 branch !
+</h2>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
